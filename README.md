@@ -1,6 +1,6 @@
 # Allure Example
 
-> Example of Allure Report usage with CodeceptJS, yarn and TypeScript
+> Example of Allure Report usage with CodeceptJS, Yarn and TypeScript
 
 <!--<img src="https://allurereport.org/public/img/allure-report.svg" alt="Allure Report logo" style="float: right" />-->
 
