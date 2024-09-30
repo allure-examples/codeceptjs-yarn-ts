@@ -1,0 +1,1 @@
+{"f83abda24765a01068abc12716cf41d9:d41d8cd98f00b204e9800998ecf8427e":{"statistic":{"failed":0,"broken":0,"skipped":0,"passed":1,"unknown":0,"total":1},"items":[{"uid":"79df179e6935170b","reportUrl":"https://allure-examples.github.io/codeceptjs-yarn-ts/4//#testresult/79df179e6935170b","status":"passed","time":{"start":1727699761371,"stop":1727699761380,"duration":9}}]}}
